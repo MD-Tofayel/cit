@@ -1,0 +1,13 @@
+body {
+    background-color: antiquewhite;
+}
+
+h1{
+    text-align: center;
+    color: rgb(214, 29, 29);
+}
+.container{
+    background-color: rgb(238, 0, 255);
+    border: dotted;
+    border: ridge;
+}
